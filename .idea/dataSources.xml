@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="cookie@service2" uuid="b14e0e29-2f96-400b-99c1-b42ef7cb25b5">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/cookie</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cookie@service1" uuid="177111ed-f239-41f4-b4e8-7a30a89b3080">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5431/cookie</jdbc-url>
+    </data-source>
+  </component>
+</project>
